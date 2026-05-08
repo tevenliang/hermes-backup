@@ -1,0 +1,15 @@
+{
+  "bitable": {
+    "app_token": "BO6kb2c7haHY2FsLJCecH1mrnhe",
+    "table_id": "tblDEBAW1NOq61Ch",
+    "field_customer": "Customer",
+    "field_news": "企业新闻",
+    "field_news_updated": "企业新闻最后更新"
+  },
+  "lark": {
+    "folder_token": "K312fSiL0lApa8dLCARczd1jnUO"
+  },
+  "tavily": {
+    "api_key": "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"
+  }
+}

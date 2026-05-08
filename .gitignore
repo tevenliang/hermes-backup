@@ -1,0 +1,93 @@
+# Credentials - NEVER commit
+CREDENTIALS.md
+.env
+
+# Obsidian vault (local settings)
+.obsidian/
+
+# Hermes framework (not custom code)
+bin/
+hermes-agent/
+
+# Runtime state (generated, not source)
+memory/
+memory_daily/
+
+# Authentication
+auth.json
+auth.lock
+gateway.lock
+gateway.pid
+kanban.db
+state.db
+state.db-shm
+state.db-wal
+
+# Third-party sessions
+weixin/
+whatsapp/
+
+# Cache
+cache/
+image_cache/
+audio_cache/
+mx_data/
+memories/archive/
+
+# Logs and runtime
+logs/
+sessions/
+tmp/
+sandboxes/
+pairing/
+bookmark-sync/
+
+# Node modules
+node_modules/
+hermes-agent/node_modules/
+hermes-agent/pnpm-lock.yaml
+
+# Temporary files
+meta_*.txt
+note_*.txt
+temp_*.txt
+temp_*
+state-snapshots/
+
+# State files
+processes.json
+models_dev_cache.json
+feishu_seen_message_ids.json
+channel_directory.json
+gateway_state.json
+cron/output/
+cron/jobs.json
+cron/jobs.json.lock
+
+# Lock files
+*.lock
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# SkillHub state (runtime)
+skills/.hub/
+skills/.curator_state
+skills/.bundled_manifest
+skills/.usage.json
+skills/*/_pycache_/
+skills/*/__pycache__/
+skills/*/*/__pycache__/
+skills/workspace/skills/.skills_store_lock.json
+
+# Deprecated versions of scripts we explicitly include via other paths
+# (keep them all in scripts/ - not excluding here)
+
+# Re-include scripts/ after the temp file exclusions above
+!scripts/
+
+# OS files
+.DS_Store
+*.swp

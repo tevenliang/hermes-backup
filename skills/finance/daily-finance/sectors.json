@@ -1,0 +1,25 @@
+{
+  "sectors": [
+    {
+      "id": "cpo",
+      "name": "CPO（共封装光学）",
+      "icon": "💡",
+      "search_term": "CPO 共封装光学 2026",
+      "enabled": true
+    },
+    {
+      "id": "power-grid",
+      "name": "电网",
+      "icon": "🔌",
+      "search_term": "特高压 电网 2026",
+      "enabled": true
+    },
+    {
+      "id": "gold",
+      "name": "黄金",
+      "icon": "🥇",
+      "search_term": "黄金价格 2026",
+      "enabled": true
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "topics": [
+    {
+      "id": "ai-tool",
+      "name": "AI工具/OpenClaw",
+      "icon": "🤖",
+      "search_term": "OpenClaw 2026 最新更新",
+      "enabled": true,
+      "count": 5
+    },
+    {
+      "id": "feishu",
+      "name": "飞书动态",
+      "icon": "📱",
+      "search_term": "飞书 2026 最新功能更新",
+      "enabled": true,
+      "count": 5
+    },
+    {
+      "id": "us-ir-il",
+      "name": "美以伊局势",
+      "icon": "🌍",
+      "search_term": "伊朗 美国 以色列 战争 2026 最新",
+      "enabled": true,
+      "count": 5
+    },
+    {
+      "id": "ai-pricing",
+      "name": "AI定价计划",
+      "icon": "💰",
+      "search_term": "豆包 文小言 智谱 通义kimi 大模型 国内AI 定价 费用 2026 最新",
+      "enabled": true,
+      "count": 5
+    },
+    {
+      "id": "wembanyama",
+      "name": "文班亚疐",
+      "icon": "🏀",
+      "search_term": "文班亚疐 NBA",
+      "enabled": true,
+      "count": 5
+    },
+    {
+      "id": "ai-coding",
+      "name": "AI Coding",
+      "icon": "💻",
+      "search_term": "AI Coding 2026 最新",
+      "enabled": true,
+      "count": 5
+    }
+  ]
+}
